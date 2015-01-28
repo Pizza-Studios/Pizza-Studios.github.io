@@ -6,4 +6,4 @@ We are developers. We are Italian. Pizza. Mafia. Mandolino.
 
 `:)`
 
-*Currently WIP*
+**Currently WIP**
